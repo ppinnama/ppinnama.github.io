@@ -1,0 +1,23 @@
+h1{
+	font-size: 30;
+}
+
+#slogan{
+	font-weight: bold;
+	font-style: italic;
+}
+
+body {
+  text-align:left;
+  background: url("image/tazzy.jpg");
+  background-size: cover;
+  color: #000;
+  font-family: roboto;
+}
+hr {
+  width: 200px;
+}
+
+p{
+  font-size:22px;
+}

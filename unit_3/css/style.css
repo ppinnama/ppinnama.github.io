@@ -8,8 +8,8 @@ h1{
 }
 
 body {
-  text-align:left;
-  background: url("images/tazzz.jpg");
+  text-align:center;
+  background: <img src="images/tazzz.jpg">;
   background-size: cover;
   color: #000;
   font-family: serif;

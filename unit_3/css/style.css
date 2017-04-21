@@ -9,7 +9,7 @@ h1{
 
 body {
   text-align:center;
-  background: url(<img src="images/tazzz.jpg">);
+  background: url(tazzz.jpg);
   background-size: cover;
   color: #000;
   font-family: serif;

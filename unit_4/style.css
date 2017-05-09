@@ -10,14 +10,14 @@ h1{
 
 #slogan {
 	font-weight: bold;
-  font-family: 'Allura 16px', cursive;
+  font-family: 'Allura', cursive;
   text-align: left;
 	color: white;
 }
 
 body {
   text-align:left;
-  font-family: 'Allura 16px', cursive;
+  font-family: 'Allura', cursive;
   background: url("../images/tazzz.jpg");
   background-size: cover;
   color: #fff;

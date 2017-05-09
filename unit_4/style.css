@@ -16,10 +16,10 @@ h1{
 
 body {
   text-align:left;
+  font-family: 'Allura 16px', cursive;
   background: url("../images/tazzz.jpg");
   background-size: cover;
   color: #fff;
-  font-family: serif;
 }
 hr {
   width: 200px;

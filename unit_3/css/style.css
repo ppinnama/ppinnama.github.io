@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Allura|Slabo+27px');
 
 h1{
   font-family: 'Slabo 27px', serif;
@@ -9,12 +9,14 @@ h1{
 
 #slogan {
 	font-weight: bold;
+  font-family: 'Allura 16px', cursive;
+  text-align: left;
 	font-style: italic
 	color: white;
 }
 
 body {
-  text-align:center;
+  text-align:left;
   background: url("../images/tazzz.jpg");
   background-size: cover;
   color: #fff;

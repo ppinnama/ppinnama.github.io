@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px')
+
+h1{
+  font-family: 'Slabo 27px', serif;
+  text-align: left;
+	font-style: bold;
+	color: white;
+}
+
+#slogan {
+	font-weight: bold;
+	font-style: italic
+	color: white;
+}
+
+body {
+  text-align:center;
+  background: url("../images/tazzz.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: serif;
+}
+hr {
+  width: 200px;
+}
+
+p{
+  font-size:22px;
+}

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
-@import url('https://fonts.googleapis.com/css?family=Allura');
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
 
 h1{
   font-family: 'Slabo 27px', serif;
@@ -9,22 +9,20 @@ h1{
 }
 
 #slogan {
-  font-family: 'Allura', cursive;
+  font-family: 'Tangerine', cursive;
   text-align: left;
 	color: white;
 }
 
 body {
   text-align:left;
-  font-family: 'Allura', cursive;
+  font-family: 'Tangerine', cursive;
   background: url("../images/tazzz.jpg");
   background-size: cover;
   color: #fff;
 }
-hr {
-  width: 200px;
-}
+
 
 p{
-  font-size:22px;
+  font-size:18px;
 }

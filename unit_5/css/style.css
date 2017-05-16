@@ -6,29 +6,3 @@ header {
     border: 1px black solid;
     padding: 20px;
 }
-
-h1{
-  font-family: 'Slabo 27px', serif;
-  text-align: left;
-	font-style: bold
-	color: white;
-}
-
-#slogan {
-  font-family: 'Slabo 27px', cursive;
-  text-align: left;
-	color: white;
-}
-
-body {
-  text-align:left;
-  font-family: 'Tangerine', cursive;
-  background: url("../images/tazzz.jpg");
-  background-size: cover;
-  color: #fff;
-}
-
-
-p{
-  font-size:18px;
-}

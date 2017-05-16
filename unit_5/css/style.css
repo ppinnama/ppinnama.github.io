@@ -8,13 +8,13 @@ header {
 }
 
 nav {
-  background-color: [#E8C66A];
+  background-color: [purple];
     border: 1px black solid;
     padding: 20px;
 }
 
 aside {
-  background-color: [#FFC675];
+  background-color: green;
     border: 1px black solid;
     padding: 20px;
 }

@@ -8,32 +8,32 @@ header {
 }
 
 nav {
-  background-color: [purple];
+  background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
 
 aside {
-  background-color: green;
+  background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
 
 article {
-  background-color: [#E89C6C];
+  background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 }
 
 
 footer {
-  background-color: [#FF957E];
+  background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
 }
 
 div/section {
-  background-color: [#FFE2B8];
+  background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
